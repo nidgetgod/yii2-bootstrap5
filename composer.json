@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-bootstrap5",
+    "name": "nidgetgod/yii2-bootstrap5",
     "description": "The Twitter Bootstrap v5 extension for the Yii framework",
     "keywords": [
         "yii2",
@@ -27,7 +27,7 @@
         "php": ">=7.0",
         "ext-json": "*",
         "yiisoft/yii2": "^2.0.42",
-        "bower-asset/bootstrap": "^5.1.0"
+        "npm-asset/bootstrap": "^5.1.0"
     },
     "require-dev": {
         "yiisoft/yii2-coding-standards": "~2.0",
